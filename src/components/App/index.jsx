@@ -1,9 +1,6 @@
-import { useState } from "react";
-import "./App.css";
+import "./styles.scss";
 
 function App() {
-  // const [count, setCount] = useState(0)
-
   return (
     <div className="App">
       <h1>Hello !</h1>
