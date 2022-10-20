@@ -10,5 +10,8 @@ html {
 }
 
 body {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
+  font-family: vars.$font-family-overpass;
+  background-color: vars.$very-dark-blue;
+  color: vars.$white;
 }

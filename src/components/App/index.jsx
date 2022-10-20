@@ -1,9 +1,10 @@
+import Rating from "../Rating";
 import "./styles.scss";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello !</h1>
+      <Rating />
     </div>
   );
 }
